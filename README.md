@@ -4,6 +4,9 @@ Facebook's Support makes it very difficult to talk to a human being. Here's a li
 ## Contributing
 If you come across a link where you can send a form to talk to an actual Facebook support human being, please edit this README and open a pull request.
 
+## Facebook Payment Support for Monetizers
+https://www.facebook.com/help/contact/1540812909361378
+
 ## Get Personal Fundraiser Support
 https://www.facebook.com/help/contact/105616563307791
 
